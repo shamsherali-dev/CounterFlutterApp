@@ -1,3 +1,7 @@
+# CounterScreen Flutter App
+<img width="493" height="747" alt="image" src="https://github.com/user-attachments/assets/013f3df8-b1ea-44d5-afdf-2af56169be05" />
+
+
 # fapp2
 
 A new Flutter project.
